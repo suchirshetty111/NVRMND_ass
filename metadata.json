@@ -1,0 +1,6 @@
+{
+  "name": "NVRMND Creative Studio",
+  "description": "A premium modern creative agency website featuring cinematic motion, fluid glassmorphism, and elegant interactions inspired by NVRMND Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
